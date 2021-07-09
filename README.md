@@ -1,14 +1,8 @@
 ### Hi there, I am [Hank Lu](https://hanklu.tw) ⭐－_－💧
 
-- Blog: [blog.hanklu.tw](https://blog.hanklu.tw)
-- Slides: [slides.hanklu.tw](https://slides.hanklu.tw)
+[Blog](https://blog.hanklu.tw) | [Slides](https://slides.hanklu.tw)
 
-I'm currently a master student in Taiwantech, Taiwan. 
-- Working on multi-modal and deep learning research.
-- Create web application and play web CTF sometimes.
-- Write blog post in my free time.
-- Python lover 🐍
-
+<hr/>
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 
