@@ -1,15 +1,13 @@
-### Hi there, I am [Hank Lu](https://hanklu.tw) ⭐－_－💧
+Hi there, I am [Hank Lu](https://hanklu.tw), a CS student in Taiwan.
 
-[Blog](https://blog.hanklu.tw) | [Slides](https://slides.hanklu.tw)
-
-<hr/>
-
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/><img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=NuxtJS&logoColor=white"/><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+[![](https://img.shields.io/badge/-kehanlu-181717?style=flat&labelColor=181717&logo=GitHub&logoColor=white)](https://github.com/kehanlu)
+[![](https://img.shields.io/badge/-blog.hanklu.tw-FF4088?style=flat&labelColor=FF4088&logo=hugo&logoColor=white)](https://blog.hanklu.tw)
+[![](https://img.shields.io/badge/-slides.hanklu.tw-F2E142?style=flat&labelColor=F2E142&logo=reveal.js&logoColor=000000)](https://slides.hanklu.tw)
+[![](https://img.shields.io/badge/-@kehan_lu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/kehan_lu)
+<!-- [![](https://img.shields.io/badge/-kehanlu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kehanlu/) -->
 
 
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+⭐－_－💧
 
 
 <!--
