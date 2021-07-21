@@ -1,5 +1,6 @@
 Hi there, I am [Hank Lu](https://hanklu.tw), a CS student in Taiwan.
 
+[![](https://img.shields.io/badge/home-hanklu.tw-blue)](https://hanklu.tw)
 [![](https://img.shields.io/badge/-kehanlu-181717?style=flat&labelColor=181717&logo=GitHub&logoColor=white)](https://github.com/kehanlu)
 [![](https://img.shields.io/badge/-blog.hanklu.tw-FF4088?style=flat&labelColor=FF4088&logo=hugo&logoColor=white)](https://blog.hanklu.tw)
 [![](https://img.shields.io/badge/-slides.hanklu.tw-F2E142?style=flat&labelColor=F2E142&logo=reveal.js&logoColor=000000)](https://slides.hanklu.tw)
